@@ -1,4 +1,4 @@
-CRUD based Web Application that acts as a blog site for campgrounds!
+CRUD based Web Application for campground sites!
 
 Uses HTML5, CSS3, Bootstrap3, Node.js, Express.js, MongoDB, and more!
 
